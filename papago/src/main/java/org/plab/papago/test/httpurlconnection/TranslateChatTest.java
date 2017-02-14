@@ -11,8 +11,8 @@ import org.json.JSONObject;
 
 public class TranslateChatTest {
 
-	private static final String CLIENT_ID = "YT3sGk0MoJ7PQmDphfUt";
-	private static final String CLIENT_SECRET = "6g5G0Z7pXy";
+	private static final String CLIENT_ID = "clientid";
+	private static final String CLIENT_SECRET = "secret";
 	private static final String API_URL = "https://openapi.naver.com/v1/language/translate";
 	
 	public static void main(String[] args) {
